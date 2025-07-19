@@ -175,7 +175,7 @@ export default function Home() {
       >
         <h2 className="text-3xl font-bold text-pink-400">Let’s Build Your Revenue Machine</h2>
         <p className="text-gray-400 mt-4 mb-6">
-          This isn’t a campaign. It’s a system. And when it’s built right, it keeps working — even when you're not.
+          This isn&apos;t a campaign. It&apos;s a system. And when it&apos;s built right, it keeps working — even when you&apos;re not.
         </p>
         <Button className="text-lg px-8 py-3 rounded-full bg-white text-black hover:bg-gray-100">
           Get In Touch →
